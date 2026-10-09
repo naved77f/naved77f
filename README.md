@@ -1,101 +1,151 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img alt="Naved77F — AI/ML Enthusiast, Data Science and Full-Stack Learner" src="dark.svg" width="100%">
-  </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=NAVED%20HASAN&fontSize=52&color=0:00F5FF,100:7B2CFF&stroke=00F5FF&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=AI%2FML%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20BUILDER&descSize=16&descAlignY=72" width="100%" alt="Naved Hasan cyber banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Naved's+profile...;AI%2FML+Enthusiast;Learning+by+building+real+projects;Turning+data+into+ideas." alt="Typing intro"/>
+
 </div>
-
-<h1 align="center">Hi, I'm Naved 👋</h1>
-<h3 align="center">AI/ML Enthusiast · Data Science Learner · Full-Stack Explorer</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/naved-hasan-4a7a1a3a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kaif95277@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/naved77f"><img src="https://img.shields.io/badge/GitHub-naved77f-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="43%" valign="top">
 
-- 🎓 B.Com graduate, now expanding into technology and software development.
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Data Science**.
-- 🐍 Learning and practicing Python, data analysis, SQL, and machine-learning workflows.
-- 🧩 Exploring full-stack development alongside my MCA learning journey.
-- 🛠️ I learn best by building projects, improving them, and sharing my work.
-- 🌱 Current focus: strengthen fundamentals, practice consistently, and build useful projects.
+### `01 / IDENTITY`
 
-> **My approach:** Learn with intent. Build with consistency. Grow through projects.
+```text
+┌────────────────────────────┐
+│  USER: NAVED HASAN         │
+│  STATUS: LEARNING + BUILD  │
+│  FOCUS: AI / ML            │
+│  BASE: INDIA               │
+└────────────────────────────┘
+```
 
-## 🧰 Tech Stack & Tools
+```text
+        .-""""-.
+       / .--.  \
+      | |    |  |
+      | |____|  |
+       \  __   /
+      .-'    '-.
+     /  /|  |\  \
+    /__/ |__| \__\
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,html,css,js,mysql,linux&perline=6" alt="Technology icons">
-</p>
+> `//` ASCII terminal avatar — no profile photo required.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Learning%20%26%20Projects-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-Data%20Work-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Practice-0F766E?style=flat-square" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Generative%20AI-Learning-7C3AED?style=flat-square" alt="Generative AI">
-</p>
+</td>
+<td width="57%" valign="top">
 
-## 🚀 Featured Projects
+### `02 / ABOUT.EXE`
 
-### 1. QuantFormer — Multimodal Order-Book & Sentiment Research
-A collaborative project exploring order-book data and financial sentiment with deep-learning components.
+```yaml
+name: Naved Hasan
+education: B.Com Graduate | MCA Student
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+currently_learning:
+  - Python & data analysis
+  - SQL
+  - Machine Learning fundamentals
+mindset: Learn -> Build -> Improve
+```
 
-- **Focus:** Python, PyTorch, FastAPI, transformer-based modeling
-- **Repository:** [View QuantFormer](https://github.com/Devansh1-tech/QuantFormer-Multimodal-Order-Book-Sentiment-Transformer)
+### `03 / CONNECT`
 
-### 2. EconoCausal — Dynamic Pricing with Causal Inference
-A learning project exploring dynamic pricing and causal-inference methods, including Double Machine Learning.
+[![GitHub](https://img.shields.io/badge/GitHub-@naved77f-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/naved77f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/naved-hasan-4a7a1a3a1/)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:kaif95277@gmail.com)
 
-- **Focus:** Python, Jupyter Notebook, machine learning, causal inference
-- **Repository:** Add the repository URL here when ready.
+</td>
+</tr>
+</table>
 
-### 3. More projects coming
-I’m working on strengthening my fundamentals and turning practice notebooks into clear, documented projects.
+---
 
-> Tip: Replace the EconoCausal placeholder above with the exact repository URL before publishing, if that repository is public.
+## `04 / TECH STACK`
 
-## 📊 GitHub Overview
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naved77f&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naved77f&layout=compact&hide_border=true" alt="Most used languages">
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" alt="Python, MySQL, Git, GitHub, VS Code"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naved77f&hide_border=true" alt="GitHub contribution streak">
-</p>
+<img src="https://img.shields.io/badge/NumPy-learning-00F5FF?style=flat-square&logo=numpy&logoColor=black" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-learning-7B2CFF?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Machine_Learning-learning-00F5FF?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Generative_AI-exploring-7B2CFF?style=flat-square" alt="Generative AI"/>
 
-## 🐍 Contribution Snake
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naved77f/github-snake/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naved77f/github-snake/output/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/naved77f/github-snake/output/github-snake.svg" width="100%">
-  </picture>
-</p>
+---
 
-## 🎯 What I'm Working Toward
+## `05 / FEATURED PROJECTS`
 
-- Building stronger Python and SQL fundamentals.
-- Practicing data structures, algorithms, and problem-solving.
-- Learning machine learning through hands-on experiments.
-- Improving software-development skills through my MCA journey.
-- Publishing projects with better documentation and reproducible steps.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤝 Connect With Me
+### ◈ QuantFormer
+**Multimodal Order Book + Sentiment Transformer**
 
-- **LinkedIn:** [Naved Hasan](https://www.linkedin.com/in/naved-hasan-4a7a1a3a1/)
-- **Email:** [kaif95277@gmail.com](mailto:kaif95277@gmail.com)
-- **GitHub:** [@naved77f](https://github.com/naved77f)
+- Financial time-series and sentiment experimentation
+- Python, PyTorch, Transformers, FastAPI
 
-<p align="center">
-  <i>Thanks for visiting — keep learning, keep building 🚀</i>
-</p>
+[↗ View repository](https://github.com/Devansh1-tech/QuantFormer-Multimodal-Order-Book-Sentiment-Transformer)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ EconoCausal
+**Dynamic Pricing via Double Machine Learning**
+
+- Causal inference and treatment-effect estimation
+- Python, machine learning, econometrics
+
+[↗ Add project link](https://github.com/naved77f)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naved77f&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naved77f&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=naved77f&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## `07 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/naved77f/github-snake/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+[ SYSTEM MESSAGE ]  Keep learning. Keep shipping. Stay curious.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,100:7B2CFF" width="100%" alt="neon footer line"/>
+
+<sub>Designed in terminal mode • Built with Markdown, SVGs & GitHub stats</sub>
+
+</div>
