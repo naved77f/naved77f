@@ -1,47 +1,57 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=NAVED%20HASAN&fontSize=52&color=0:00F5FF,100:7B2CFF&stroke=00F5FF&fontColor=FFFFFF&animation=twinkling&fontAlignY=50&desc=AI%2FML%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20BUILDER&descSize=16&descAlignY=72" width="100%" alt="Naved Hasan cyber banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:083344,100:164e63&text=%3E%20naved77f%40github%3A~&fontColor=22D3EE&fontSize=26&fontAlign=8" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+Naved's+profile...;AI%2FML+Enthusiast;Learning+by+building+real+projects;Turning+data+into+ideas." alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Data+Science+Learner;Build+%7C+Learn+%7C+Improve" />
 
 </div>
 
----
-
 <table>
 <tr>
-<td width="43%" valign="top">
+<td width="38%" valign="top">
 
-### `01 / IDENTITY`
-
-```text
-┌────────────────────────────┐
-│  USER: NAVED HASAN         │
-│  STATUS: LEARNING + BUILD  │
-│  FOCUS: AI / ML            │
-│  BASE: INDIA               │
-└────────────────────────────┘
-```
+<h3><code>&gt; identity.exe</code></h3>
 
 ```text
-        .-""""-.
-       / .--.  \
-      | |    |  |
-      | |____|  |
-       \  __   /
-      .-'    '-.
-     /  /|  |\  \
-    /__/ |__| \__\
++--------------------------+
+| USER: NAVED HASAN        |
+| STATUS: LEARNING         |
+| FOCUS: AI / ML           |
+| BASE: INDIA              |
++--------------------------+
 ```
 
-> `//` ASCII terminal avatar — no profile photo required.
+<h3><code>&gt; avatar.txt</code></h3>
+
+```text
+       .-""""-.
+      /  .--.  \
+     |  /    \  |
+     | | 0  0 | |
+     | |  __  | |
+      \ \____/ /
+       '.___.'
+      __/| |\__
+     /___|_|___\
+        /   \
+       /_____\
+```
+
+<sub>ASCII avatar • terminal mode</sub>
+
+<h3><code>&gt; connect</code></h3>
+
+[GitHub](https://github.com/naved77f)
+
+[LinkedIn](https://www.linkedin.com/in/naved-hasan-4a7a1a3a1/)
+
+[Email](mailto:kaif95277@gmail.com)
 
 </td>
-<td width="57%" valign="top">
+<td width="62%" valign="top">
 
-### `02 / ABOUT.EXE`
+<h3><code>&gt; about_me.exe</code></h3>
 
 ```yaml
 name: Naved Hasan
@@ -51,17 +61,43 @@ interests:
   - Machine Learning
   - Data Science
 currently_learning:
-  - Python & data analysis
+  - Python
+  - Data Analysis
   - SQL
-  - Machine Learning fundamentals
+  - Machine Learning
 mindset: Learn -> Build -> Improve
 ```
 
-### `03 / CONNECT`
+<h3><code>&gt; skills --learning</code></h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@naved77f-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/naved77f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/naved-hasan-4a7a1a3a1/)
-[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:kaif95277@gmail.com)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" width="90%" />
+
+<img src="https://img.shields.io/badge/NumPy-Learning-07111f?style=flat-square&logo=numpy&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Pandas-Learning-07111f?style=flat-square&logo=pandas&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/ML-Exploring-07111f?style=flat-square" />
+<img src="https://img.shields.io/badge/GenAI-Exploring-07111f?style=flat-square" />
+
+</div>
+
+<h3><code>&gt; projects --featured</code></h3>
+
+**01 / QuantFormer**
+
+`Python` `PyTorch` `Transformers`
+
+Multimodal order-book and sentiment modeling.
+
+[Open project →](https://github.com/Devansh1-tech/QuantFormer-Multimodal-Order-Book-Sentiment-Transformer)
+
+**02 / EconoCausal**
+
+`Python` `Machine Learning` `Causal Inference`
+
+Dynamic pricing and treatment-effect experiments.
+
+[Explore repositories →](https://github.com/naved77f?tab=repositories)
 
 </td>
 </tr>
@@ -69,83 +105,24 @@ mindset: Learn -> Build -> Improve
 
 ---
 
-## `04 / TECH STACK`
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=5" alt="Python, MySQL, Git, GitHub, VS Code"/>
+<h3><code>&gt; github_telemetry</code></h3>
 
-<img src="https://img.shields.io/badge/NumPy-learning-00F5FF?style=flat-square&logo=numpy&logoColor=black" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-learning-7B2CFF?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Machine_Learning-learning-00F5FF?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative_AI-exploring-7B2CFF?style=flat-square" alt="Generative AI"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=naved77f&show_icons=true&hide_border=true&bg_color=050B14&title_color=22D3EE&icon_color=38BDF8&text_color=DCEAF7" />
 
-</div>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naved77f&layout=compact&hide_border=true&bg_color=050B14&title_color=22D3EE&text_color=DCEAF7" />
 
----
+<h3><code>&gt; contribution_matrix</code></h3>
 
-## `05 / FEATURED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ QuantFormer
-**Multimodal Order Book + Sentiment Transformer**
-
-- Financial time-series and sentiment experimentation
-- Python, PyTorch, Transformers, FastAPI
-
-[↗ View repository](https://github.com/Devansh1-tech/QuantFormer-Multimodal-Order-Book-Sentiment-Transformer)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ EconoCausal
-**Dynamic Pricing via Double Machine Learning**
-
-- Causal inference and treatment-effect estimation
-- Python, machine learning, econometrics
-
-[↗ Add project link](https://github.com/naved77f)
-
-</td>
-</tr>
-</table>
-
----
-
-## `06 / GITHUB TELEMETRY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naved77f&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naved77f&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=naved77f&hide_border=true&background=0D1117&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
-
-</div>
-
----
-
-## `07 / CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/naved77f/github-snake/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/naved77f/github-snake/output/github-contribution-grid-snake-dark.svg" />
 
 ```text
-[ SYSTEM MESSAGE ]  Keep learning. Keep shipping. Stay curious.
+[ SYSTEM MESSAGE ] Build • Learn • Improve
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,100:7B2CFF" width="100%" alt="neon footer line"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,100:6366F1" />
 
-<sub>Designed in terminal mode • Built with Markdown, SVGs & GitHub stats</sub>
+<sub>Terminal-inspired profile • Keep coding...</sub>
 
 </div>
