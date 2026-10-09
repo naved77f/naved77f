@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">NAVED77F — AI/ML Enthusiast</title>
+<desc id="desc">Animated clean blue developer banner.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eff6ff"/><stop offset=".55" stop-color="#f8fafc"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0284c7"/><stop offset=".5" stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#0284c7" stroke-opacity=".1" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/><rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+<circle cx="1020" cy="68" r="170" fill="#60a5fa" opacity=".15"><animate attributeName="r" values="150;185;150" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="310" r="180" fill="#22d3ee" opacity=".12"><animate attributeName="r" values="180;145;180" dur="8s" repeatCount="indefinite"/></circle>
+<path d="M35 82H285 M915 286H1165" stroke="url(#line)" stroke-width="2" opacity=".8"/>
+<g font-family="Consolas, 'Courier New', monospace" fill="#0369a1" opacity=".7" font-size="17">
+  <text x="58" y="145">&lt;build_future /&gt;</text><text x="905" y="112">{"AI": "curiosity"}</text><text x="928" y="138">while(learning):</text><text x="950" y="164">keep_building()</text>
+</g>
+<text x="600" y="151" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="800" letter-spacing="3" fill="#0f172a">NAVED<tspan fill="#0284c7">77F</tspan></text>
+<path d="M405 176H795" stroke="url(#line)" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 390;390 0;0 390" dur="6s" repeatCount="indefinite"/></path>
+<text x="600" y="218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4" fill="#1e40af">AI/ML ENTHUSIAST  •  DATA SCIENCE  •  FULL-STACK LEARNER</text>
+<text x="600" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#475569">Learn with intent. Build with consistency. Grow through projects.</text>
+<g transform="translate(505 298)" font-family="Consolas, monospace" font-size="14" fill="#075985"><rect x="0" y="0" width="190" height="30" rx="15" fill="#fff" stroke="#7dd3fc"/><circle cx="16" cy="15" r="4" fill="#0284c7"/><text x="29" y="20">status: learning</text></g>
+</svg>
